@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0909-stone-game) |
 | [1364-tuple-with-same-product](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1364-tuple-with-same-product) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1635-number-of-good-pairs](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1677-matrix-diagonal-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/2048-build-array-from-permutation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0242-valid-anagram) |
 | [1364-tuple-with-same-product](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1364-tuple-with-same-product) |
+| [1635-number-of-good-pairs](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1635-number-of-good-pairs) |
 | [2107-find-unique-binary-string](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1364-tuple-with-same-product) |
+| [1635-number-of-good-pairs](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1635-number-of-good-pairs) |
 ## Design
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0371-sum-of-two-integers) |
 | [0909-stone-game](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0909-stone-game) |
 | [1260-day-of-the-year](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1260-day-of-the-year) |
+| [1635-number-of-good-pairs](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/1635-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
