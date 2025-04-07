@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/2551-apply-operations-to-an-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/3227-find-missing-and-repeated-values) |
