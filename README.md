@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0898-transpose-matrix) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0643-maximum-average-subarray-i) |
 ## Recursion
 |  |
 | ------- |
