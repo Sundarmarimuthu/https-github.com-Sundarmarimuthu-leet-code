@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0338-counting-bits) |
 | [0909-stone-game](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
