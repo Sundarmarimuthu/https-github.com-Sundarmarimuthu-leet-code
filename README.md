@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0055-jump-game) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Math
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sundarmarimuthu/https-github.com-Sundarmarimuthu-leet-code/tree/master/0338-counting-bits) |
